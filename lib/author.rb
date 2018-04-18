@@ -1,4 +1,4 @@
-class Artist
+class Author
   attr_accessor :name, :posts
     @@post_count = 0
   def initialize(name)
